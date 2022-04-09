@@ -1,0 +1,34 @@
+.create {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.create h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.create button {
+    width: 20%;
+    margin: 1rem 0 1rem 1rem;
+    float: right;
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 100%;
+}
+
+#edit {
+    color: rgb(219, 219, 219);
+}
+
+#delete {
+    color: rgb(219, 219, 219);
+}
